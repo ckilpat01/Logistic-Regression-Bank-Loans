@@ -1,0 +1,10 @@
+warnings
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+tensorflow
+imbalanced-learn
+xgboost==1.0.1
